@@ -1,0 +1,4 @@
+{
+  "imdb_api_key":"<your_api_key>",
+  "atlas_mongo_uri":"mongodb+srv://<login>:<password>@cluster0.ygbqd.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
