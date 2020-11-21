@@ -18,4 +18,4 @@ You can find the article [here :page_with_curl:](https://baillahiamine.medium.co
     - on Linux/Mac : try with either "localhost" or try to get your docker machine ip by looking it up in your config file
 
 ### Demo :
-[Check the prod version from here]()
+[Check the prod version from here](https://medium-article-src-code.vercel.app/)
