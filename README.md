@@ -1,4 +1,8 @@
-### About :grey_question: : 
+<div style="text-align:center">
+  <img src="https://miro.medium.com/max/954/1*JJFt8gRBPBCjSwNYqhP3UA.png" width="350px" height="250px">
+</div>
+
+### About :eyes: : 
 It's about the source code of a **Medium** article that i wrote titled **Dockerize a MERN stack app**
 You can find the article [here :page_with_curl:](https://baillahiamine.medium.com/)
 
@@ -6,16 +10,16 @@ You can find the article [here :page_with_curl:](https://baillahiamine.medium.co
 - **client :** the frontend source code
 - **server :** the backend source code
 
-### Setup : 
+### Setup :dart: : 
 - You'll need to create first a mongo database on Atlas from [here](https://account.mongodb.com/)  
 - Choose a movies database provider and get your **api_key**
-- Edit the file "server/access.json" with your crendentials :
+- Edit the file **"server/access.json"** with your crendentials :
   - change the api_key with yours
   - in the second line of "server/access.json" change <login> and <password> with your Atlas mongodb crendentials.
-- Edit the file "client/src/services/index.js" :
+- Edit the file **"client/src/services/index.js"** :
   - in the line third line change baseURL with your docker machine ip :
-    - on Windows : just type "docker-machine ip" and that will give you the ip address to put
+    - on Windows : just type ```docker-machine ip``` and that will give you the ip address to put
     - on Linux/Mac : try with either "localhost" or try to get your docker machine ip by looking it up in your config file
 
-### Demo :
+### Demo :rocket: :
 [Check the prod version from here](https://medium-article-src-code.vercel.app/)
