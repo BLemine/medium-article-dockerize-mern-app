@@ -1,6 +1,6 @@
-<div style="text-align:center">
-  <img src="https://miro.medium.com/max/954/1*JJFt8gRBPBCjSwNYqhP3UA.png" width="350px" height="250px">
-</div>
+
+  <img src="https://miro.medium.com/max/954/1*JJFt8gRBPBCjSwNYqhP3UA.png" style="width:50%;margin-left:auto;display:block;margin-right:auto">
+
 
 ### About :eyes: : 
 It's about the source code of a **Medium** article that i wrote titled **Dockerize a MERN stack app**
